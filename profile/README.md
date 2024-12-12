@@ -2,7 +2,22 @@
 
 ## Hi there 👋
 
+ZdsLogic Technologies, LLC
+ZdsLogic Foundation
+
 <B>About Us</B>
+
+Providing Housing for Homeless Veterans in Rhode Island, USA
+
+<B>ZdsLogic Foundation</B>
+
+2 - Land Purchases
+
+Phase #1:
+1/3 Acre Lot for the ZdsCafe and ZdsLogic Office / Software House
+
+Phase #2:
+50 Acre Lot 
 
 -----------------------------------
 
