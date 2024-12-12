@@ -2,11 +2,16 @@
 
 ## Hi there 👋
 
-ZdsLogic Technologies, LLC
-ZdsLogic Foundation
+<B>The ZdsLogic Foundation</B>
+<B> and </B>
+<B>ZdsLogic Technologies, LLC</B>
+20% Net Profit of ZdsLogic Technologies is Donated to The ZdsLogic Foundation.
+
+<B>The ZdsLogic Foundation</B>
 
 <B>About Us</B>
 
+<B>Mission Statement</B>
 Providing Housing for Homeless Veterans in Rhode Island, USA
 
 <B>ZdsLogic Foundation</B>
@@ -14,10 +19,11 @@ Providing Housing for Homeless Veterans in Rhode Island, USA
 2 - Land Purchases
 
 Phase #1:
-1/3 Acre Lot for the ZdsCafe and ZdsLogic Office / Software House
+1/3 Acre Lot for the ZdsCafe / ZdsLogic Office / Software House
 
 Phase #2:
 50 Acre Lot 
+120 Tiny Home Lots for Lease with Option to Build a Tiny Home
 
 -----------------------------------
 
