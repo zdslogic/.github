@@ -29,9 +29,13 @@ Phase #2:
 
 <B>ZdsLogic Technologies</B>
 
+<B>Software Development</B>
+
 The Social Network for Technology minded individuals (and friends).
 
 Connect, Share, Learn, Explore
+
+Powered by ZdsLogic Network
 
 -----------------------------------
 
