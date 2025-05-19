@@ -73,9 +73,9 @@ This arrangement provides our customers with cost-effective solutions to tempora
 
 <B>DBA: ZdsLogic Technologies LLC.</B>
 
-Customer Service Address: 4 Meetinghouse Ln, Unit #4, Little Compton, RI, 02837
+Customer Service Address: 207 High Poinr Ave, Suite 501, Portsmouth, RI, 02871
 
-Customer Service Phone Number: 401-608-2548
+Customer Service Phone Number: 401-608-2650
 
 Customer Service Email Address: admin@zdslogic.com
 
@@ -91,7 +91,7 @@ Shipping Method: USPS (United States Postal Service)
 
 Software Development and Training
 
-- Java, Spring Boot and Angular 2+
+- Java, Spring Boot, TypeScript and Angular
 
 Technical Recruiting
 
