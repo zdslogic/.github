@@ -73,7 +73,7 @@ This arrangement provides our customers with cost-effective solutions to tempora
 
 <B>DBA: ZdsLogic Technologies LLC.</B>
 
-Customer Service Address: 207 High Poinr Ave, Suite 501, Portsmouth, RI, 02871
+Customer Service Address: 207 High Point Ave, Suite 501, Portsmouth, RI, 02871
 
 Customer Service Phone Number: 401-608-2650
 
