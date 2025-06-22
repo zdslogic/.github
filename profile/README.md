@@ -35,7 +35,7 @@ The Social Network for Technology minded individuals (and friends).
 
 Connect, Share, Learn, Explore
 
-Powered by ZdsLogic Network
+Powered by the ZdsLogic Network
 
 -----------------------------------
 
