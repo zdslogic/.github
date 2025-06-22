@@ -59,7 +59,11 @@ Richard has worked within teams of software developers, programming in Java, Typ
 
 -----------------------------------
 
-ZdsLogic Technologies is a software development company specializing in web technologies, technical recruiting, and technical training. We are comprised of members who are able to consult on a per job basis. Contracts are matched to skillsets within our organization and also hire temporary third parties where necessary.
+ZdsLogic Technologies is a software development company specializing in low-code, no-code, AI enabled, enterprise-grade web application generation (ZdsStudio).
+Built-in collaboration technologies, chat, email, video, voice.
+We also provide technical recruiting and technical training. 
+We are comprised of expert members of software teams who are able to consult on a per job basis. 
+Contracts are matched to skillsets within our organization and also hire temporary third parties where necessary.
 
 ZdsLogic Technologies provides companies with a vetted pool of developers.
 
