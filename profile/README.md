@@ -16,6 +16,7 @@
 <B>About Us</B>
 
 <B>Mission Statement</B>
+
 Providing Housing for Homeless Veterans in Rhode Island, USA
 
 <B>ZdsLogic Foundation</B>
