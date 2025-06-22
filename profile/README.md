@@ -4,8 +4,11 @@
 <B>ZdsLogic</B> is Comprised of Two Entities.
 
 <B>The ZdsLogic Foundation</B>
+
 <B> and </B>
+
 <B>ZdsLogic Technologies, LLC</B>
+
 20% Net Profit of ZdsLogic Technologies is Donated to The ZdsLogic Foundation.
 
 <B>The ZdsLogic Foundation</B>
