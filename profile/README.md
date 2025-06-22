@@ -1,7 +1,7 @@
 # zdslogic
 
 ## Hi there 👋
-<B>TZdsLogic</B> is Comprised of Two Entities.
+<B>ZdsLogic</B> is Comprised of Two Entities.
 
 <B>The ZdsLogic Foundation</B>
 <B> and </B>
