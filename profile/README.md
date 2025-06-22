@@ -52,7 +52,7 @@ Built with the following technology stack:
 
  #angular #java #springboot #hibernate
 
-v3.0.4
+v4.0.1
 
 ------------------------------
 
