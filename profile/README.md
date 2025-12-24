@@ -3,7 +3,7 @@
 ## Hi there 👋
 <B>ZdsLogic</B> is Comprised of Two Entities.
 
-<B>The ZdsLogic Foundation</B>
+<B>Veterans of Hope Inc.</B>
 
 <B> and </B>
 
