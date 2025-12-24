@@ -9,7 +9,7 @@
 
 <B>Veterans of Hope Inc.</B>
 
-20% Net Profit of ZdsLogic Technologies is Donated to The ZdsLogic Foundation.
+20% Net Profit of ZdsLogic Technologies is Donated to Veterans of Hope Inc.
 
 <B>Veterans of Hope Inc.</B>
 
