@@ -3,8 +3,10 @@
 ## Hi there 👋
 <B>ZdsLogic</B> is Comprised of Two Entities.
 
-<B>ZdsLogic Technologies, LLC</B>
+<B>ZdsLogic Technologies LLC</B>
+
 <B> and </B>
+
 <B>Veterans of Hope Inc.</B>
 
 20% Net Profit of ZdsLogic Technologies is Donated to The ZdsLogic Foundation.
