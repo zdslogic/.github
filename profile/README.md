@@ -3,15 +3,13 @@
 ## Hi there 👋
 <B>ZdsLogic</B> is Comprised of Two Entities.
 
-<B>Veterans of Hope Inc.</B>
-
-<B> and </B>
-
 <B>ZdsLogic Technologies, LLC</B>
+<B> and </B>
+<B>Veterans of Hope Inc.</B>
 
 20% Net Profit of ZdsLogic Technologies is Donated to The ZdsLogic Foundation.
 
-<B>The ZdsLogic Foundation</B>
+<B>Veterans of Hope Inc.</B>
 
 <B>About Us</B>
 
@@ -19,7 +17,7 @@
 
 Providing Housing for Homeless Veterans in Rhode Island, USA
 
-<B>ZdsLogic Foundation</B>
+<B>Veterans of Hope Inc.</B>
 
 2 - Land Purchases
 
@@ -32,7 +30,7 @@ Phase #2:
 
 -----------------------------------
 
-<B>ZdsLogic Technologies</B>
+<B>ZdsLogic Technologies LLC</B>
 
 <B>Software Development</B>
 
