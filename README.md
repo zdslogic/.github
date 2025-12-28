@@ -7,7 +7,7 @@
 
 <B>ZdsLogic Technologies</B>
 
-The Social Network for Change!.
+The Social Network for Change!
 
 Connect, Share, Learn, Explore
 
