@@ -2,7 +2,66 @@
 # zdslogic
 
 <B>About Us</B>
+Hi!
+Good morning! 🌞 
 
+The following is the AI Generated Blurb about the For-Profit Company called karl.richards@veteransofhope.net>
+
+ZdsLogic
+   +5
+ZdsLogic Technologies, founded in 2014 by Richard K. Campion and based in the Little Compton/Tiverton, RI area, is 
+a software development and technical recruiting firm specializing in web technologies. They offer custom software, "ZdsStudio" (a low-code/no-code generator for Java Spring Boot and Angular), and technical consulting for enterprises.  
+Key aspects of ZdsLogic include: 
+Technology Stack: Focuses on #angular, #java, #springboot, #hibernate, #WebSocket, and #JPA.
+ZdsStudio: A platform designed to generate plugin-based web applications, utilizing OSGi runtime philosophy for modular systems.
+Services: Provides software development teams, technical recruiting, and a "Universal Communications Platform".
+Mission: In addition to technology, the company (via the ZdsLogic Foundation) aims to support Rhode Island veterans with housing and resources.
+Development Philosophy: Uses a "Shell and Plugins" approach to create and update web applications. 
+ZdsLogic serves as both a development shop and a connector for tech-minded individuals, offering a, "social network for technology-minded individuals".  
+ZdsLogic Technologies - Little Compton Area - Alignable
+ZdsLogic Technologies. https://www.zdslogic.com/ The Social Network for Technology minded individuals (and friends). Connect, Share, Learn, Explore. We are a So...
+
+Alignable
+
+ZdsLogic Technologies - GitHub
+ZdsLogic Technologies was founded in January of 2014 by Richard K Campion . Richard began his Software Development journey as a COBOL programmer and somehow sur...
+
+GitHub
+ZdsStudio - LinkedIn
+With ZdsStudio, you can build powerful applications, websites, and automation processes with ease, all without writing a single line of code. But what truly set...
+
+LinkedIn
+ZdsLogic - Facebook
+Sep 11, 2024 — I'mHang tight. The Meeting with the SBDC, I think, went over well. I met with a Man named Paul Harden. Director of the Small Business Development Center I expla...
+
+Facebook
+
+Karl Richards - Founder, President, Social Entrepreneur, CEO, CTO ...
+Dec 14, 2023 — About. As the Founder, President, CTO, and Chief Architect at ZdsLogic Technologies, I lead a team of software engineers and developers who create innovative an...
+
+LinkedIn
+
+ZdsLogic - Facebook
+Jul 7, 2022 — Introducing The ZdsLogic Foundation Good Morning. My name is Richard K Campion. I am the Founder of ZdsLogic and the soon to be formed Non-Profit Organization n...
+
+Facebook
+
+Welcome to nginx! | Karl Richards - LinkedIn
+Jan 9, 2024 — in 2014, I Founded ZdsLogic Technologies Eclipse runs on the OSGi runtime called Equinox. I began studying OSGi in 2014, bought a great book titled "OSGI and Eq...
+
+LinkedIn
+
+ZdsLogic - GitHub
+Jul 9, 2025 — https://www.zdslogic.com/site/apidocs/ • Java / Spring Boot / WebSocket / REST / JPA / JSON / DBMS / SSO. • Authentication API. • Contact Management API. • Docu...
+
+GitHub
+
+AI 
+
+401-608-2650 - Office
+401-239-7815 - Mobile
+karl.richards@zdslogic.com
+www.zdslogic.com
 -----------------------------------
 
 <B>ZdsLogic Technologies</B>
