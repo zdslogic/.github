@@ -13,13 +13,18 @@ ZdsLogic
 
 ZdsLogic Technologies, founded in 2014 by Richard K. Campion and based in the Little Compton/Tiverton, RI area, is 
 a software development and technical recruiting firm specializing in web technologies. They offer custom software, "ZdsStudio" (a low-code/no-code generator for Java Spring Boot and Angular), and technical consulting for enterprises.  
+
 Key aspects of ZdsLogic include: 
 Technology Stack: Focuses on #angular, #java, #springboot, #hibernate, #WebSocket, and #JPA.
+
 ZdsStudio: A platform designed to generate plugin-based web applications, utilizing OSGi runtime philosophy for modular systems.
+
 Services: Provides software development teams, technical recruiting, and a "Universal Communications Platform".
 Mission: In addition to technology, the company (via the ZdsLogic Foundation) aims to support Rhode Island veterans with housing and resources.
 Development Philosophy: Uses a "Shell and Plugins" approach to create and update web applications. 
+
 ZdsLogic serves as both a development shop and a connector for tech-minded individuals, offering a, "social network for technology-minded individuals".  
+
 ZdsLogic Technologies - Little Compton Area - Alignable
 ZdsLogic Technologies. https://www.zdslogic.com/ The Social Network for Technology minded individuals (and friends). Connect, Share, Learn, Explore. We are a So...
 
@@ -58,12 +63,7 @@ Jul 9, 2025 — https://www.zdslogic.com/site/apidocs/ • Java / Spring Boot / 
 
 GitHub
 
-AI 
-
-401-608-2650 - Office
-401-239-7815 - Mobile
-karl.richards@zdslogic.com
-www.zdslogic.com
+AI
 -----------------------------------
 
 <B>ZdsLogic Technologies</B>
