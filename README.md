@@ -2,13 +2,15 @@
 # zdslogic
 
 <B>About Us</B>
+
 Hi!
+
 Good morning! 🌞 
 
-The following is the AI Generated Blurb about the For-Profit Company called karl.richards@veteransofhope.net>
+The following is the AI Generated Blurb about the For-Profit Company called:
 
 ZdsLogic
-   +5
+
 ZdsLogic Technologies, founded in 2014 by Richard K. Campion and based in the Little Compton/Tiverton, RI area, is 
 a software development and technical recruiting firm specializing in web technologies. They offer custom software, "ZdsStudio" (a low-code/no-code generator for Java Spring Boot and Angular), and technical consulting for enterprises.  
 Key aspects of ZdsLogic include: 
