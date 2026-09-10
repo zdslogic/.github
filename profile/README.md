@@ -82,7 +82,7 @@ This arrangement provides our customers with cost-effective solutions to tempora
 
 <B>DBA: ZdsLogic Technologies LLC.</B>
 
-Customer Service Address: 750 Easr Road, Suite 1C, Tiverton, Rhode Island, 02878
+Customer Service Address: 750 East Road, Suite 1C, Tiverton, Rhode Island, 02878
 
 Customer Service Phone Number: 401-608-2650
 
