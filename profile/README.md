@@ -56,7 +56,7 @@ v4.0.1
 
 ------------------------------
 
-ZdsLogic Technologies was founded in January of 2014 by Richard K Campion .
+ZdsLogic Technologies was founded in January of 2014 by Richard K Campion.
 
 Richard began his Software Development journey as a COBOL programmer and somehow survived the PC revolution when C was king.
 
@@ -82,13 +82,13 @@ This arrangement provides our customers with cost-effective solutions to tempora
 
 <B>DBA: ZdsLogic Technologies LLC.</B>
 
-Customer Service Address: 207 High Point Ave, Suite 501, Portsmouth, RI, 02871
+Customer Service Address: 750 Easr Road, Suite 1C, Tiverton, Rhode Island, 02878
 
 Customer Service Phone Number: 401-608-2650
 
-Customer Service Email Address: admin@zdslogic.com
+Customer Service Email Address: info@veteransofhope.us
 
-Pricing: Subscription: 29.99/month
+Pricing: Subscription Member: $0.99/month
 
 Return/Refund Policy: 30-days
 
@@ -116,11 +116,11 @@ Technical Recruiting
 
 ---------------------------------------
 
-<B>Richard K. Campion</B>
+<B>Karl Marx Richards</B>
 
-http://www.richardcampion.com
+http://www.veteransofhope.us
 
-richard.campion@zdslogic.com
+karl.richards@veteransofhope.us
 
 ------------------------
 <B>Technical Skills:</B>
